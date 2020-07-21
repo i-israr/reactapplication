@@ -5,7 +5,7 @@ import Israr from './israr.js'
 function App() {
   return (
     <div className="App">
-      <Israr myName="Ibrar ul haq"/>
+      <Israr myName="Israr ul haq"/>
     </div>
   );
 }
